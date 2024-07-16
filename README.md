@@ -17,7 +17,9 @@
 ---
 
 - Create your own plugins and join group to add that plugin in repo.
-
+Auto react message
+view once
+auto view status
 
 
 
